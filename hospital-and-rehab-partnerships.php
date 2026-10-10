@@ -928,9 +928,9 @@
                                     <!-- Privacy Consent -->
                                     <div>
                                         <div class="flex items-start space-x-3">
-                                            <input type="checkbox" id="consent" name="consent" required class="mt-1 flex-shrink-0">
-                                            <label for="consent" class="museo-sans text-sm text-gray-600">
-                                                I consent to Talking Tales contacting our institution regarding partnership opportunities. I understand this information will be used to provide relevant service information and partnership details. *
+                                            <input type="checkbox" id="consent" name="consent" required class="mt-1 flex-shrink-0 cursor-pointer">
+                                            <label for="consent" class="museo-sans text-xs sm:text-sm text-gray-600 cursor-pointer leading-relaxed">
+                                                I consent to The Talking Tales contacting our healthcare institution regarding clinical partnership and speech/swallowing rehab integration. We acknowledge the <a href="legal,policies-and-T&C#privacy-policy" target="_blank" class="text-primary-blue underline">Privacy Policy</a> and <a href="legal,policies-and-T&C#school-partnerships" target="_blank" class="text-primary-blue underline">Institutional Terms</a>. *
                                             </label>
                                         </div>
                                     </div>

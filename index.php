@@ -1614,27 +1614,31 @@ My husband needed speech therapy post-hospitalization, and therapist Sushma help
                 <button class="w-3 h-3 rounded-full bg-blue-600 transition-all duration-300" data-slide="0"></button>
                 <button class="w-3 h-3 rounded-full bg-gray-300 hover:bg-gray-400 transition-all duration-300" data-slide="1"></button>
                 <button class="w-3 h-3 rounded-full bg-gray-300 hover:bg-gray-400 transition-all duration-300" data-slide="2"></button>
-                                <button class="w-3 h-3 rounded-full bg-gray-300 hover:bg-gray-400 transition-all duration-300" data-slide="3"></button>
+                <button class="w-3 h-3 rounded-full bg-gray-300 hover:bg-gray-400 transition-all duration-300" data-slide="3"></button>
                 <button class="w-3 h-3 rounded-full bg-gray-300 hover:bg-gray-400 transition-all duration-300" data-slide="4"></button>
                 <button class="w-3 h-3 rounded-full bg-gray-300 hover:bg-gray-400 transition-all duration-300" data-slide="5"></button>
+            </div>
 
+            <!-- NMC & Clinical Testimonials Ethics Disclaimer -->
+            <div class="mt-8 max-w-4xl mx-auto p-4 bg-white/80 backdrop-blur-sm border border-orange-100 rounded-2xl shadow-sm text-center">
+                <p class="museo text-xs text-gray-500 leading-relaxed">
+                    <i class="fas fa-certificate text-primary-orange mr-1"></i>
+                    <strong>Clinical Transparency & Ethics Note:</strong> Testimonials reflect authentic individual rehabilitation experiences shared with explicit patient/guardian consent. Clinical speech, voice, and swallowing recovery outcomes vary based on individual etiology, diagnosis, severity, and therapy adherence. Testimonials do not constitute a medical guarantee or replace individualized clinical evaluation. <a href="legal,policies-and-T&C#testimonials-policy" class="text-primary-blue underline hover:text-blue-700">Read our Medical Content & Ethics Policy</a>.
+                </p>
             </div>
             
             <!-- Call to Action -->
-            <div class="text-center mt-16">
+            <div class="text-center mt-12">
                 <p class="museo text-lg text-gray-600 mb-8">
                     Join hundreds of families who've transformed their communication journey
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                    <!--<button class="bg-orange-500 hover:bg-orange-600 text-white museo-rounded font-bold px-8 py-4 rounded-2xl transition-all duration-300 hover:scale-105 shadow-lg">-->
-                    <!--    Start Your Journey-->
-                    <!--</button>-->
-                <a 
-  href="contact-us#booking-form1" 
-  class="border-2 border-primary-blue  bg-primary-blue text-white museo-rounded font-bold px-6 md:px-8 py-3 md:py-4 text-sm md:text-base rounded-2xl transition duration-300 hover:scale-105 block w-fit mx-auto"
->
-  Book an appointment
-</a>
+                    <a 
+                      href="contact-us#booking-form1" 
+                      class="border-2 border-primary-blue bg-primary-blue text-white museo-rounded font-bold px-6 md:px-8 py-3 md:py-4 text-sm md:text-base rounded-2xl transition duration-300 hover:scale-105 block w-fit mx-auto shadow-md"
+                    >
+                      Book an appointment
+                    </a>
                 </div>
             </div>
         </div>

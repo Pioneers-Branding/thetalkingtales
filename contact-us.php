@@ -366,12 +366,39 @@
                         </div>
 
                         <!-- Preferred Contact Method - Mobile Grid -->
-<div class="mt-4 text-sm text-gray-800">
-  <span>If not,</span>
-  <a href="index#services-all" class="block font-museo font-medium text-[#4A4A4A] underline hover:text-blue-300 transition-colors duration-300 text-sm lg:text-base">
-    take a screening test – click here
-  </a>
-</div>
+                        <div class="mt-4 text-sm text-gray-800">
+                          <span>If not,</span>
+                          <a href="index#services-all" class="font-museo font-medium text-primary-blue underline hover:text-blue-700 transition-colors duration-300 text-sm lg:text-base">
+                            take a free screening test – click here
+                          </a>
+                        </div>
+
+                        <!-- Data Protection & Privacy Consent Notice -->
+                        <div class="bg-blue-50/70 border border-blue-100 rounded-xl p-4 space-y-3">
+                            <div class="flex items-center space-x-2 text-xs font-semibold text-[#0B87C5]">
+                                <i class="fas fa-lock text-sm"></i>
+                                <span>Confidential Clinical Intake • 256-Bit Encrypted</span>
+                            </div>
+                            
+                            <div class="flex items-start space-x-3">
+                                <input 
+                                    type="checkbox" 
+                                    id="privacy-consent" 
+                                    name="consent" 
+                                    required 
+                                    class="mt-1 w-4 h-4 text-primary-blue border-gray-300 rounded focus:ring-primary-blue flex-shrink-0 cursor-pointer">
+                                <label for="privacy-consent" class="font-museo text-xs sm:text-sm text-gray-700 cursor-pointer leading-relaxed">
+                                    I consent to The Talking Tales collecting and processing my / my child's personal and health information for clinical assessment, consultation, and appointment scheduling in accordance with the <a href="legal,policies-and-T&C#privacy-policy" target="_blank" class="text-primary-blue underline hover:text-blue-700">Privacy Policy</a> and <a href="legal,policies-and-T&C#terms-of-service" target="_blank" class="text-primary-blue underline hover:text-blue-700">Terms of Service</a>. *
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Medical Emergency Advisory -->
+                        <p class="text-xs text-gray-500 font-museo leading-normal">
+                            <i class="fas fa-info-circle text-gray-400 mr-1"></i>
+                            <strong>Note:</strong> This form is for non-urgent consultation inquiries. If you or your child are experiencing an acute medical emergency, respiratory choking, or sudden neurological crisis, please call emergency services (112 / 108) immediately.
+                        </p>
+
                         <!-- Submit Button - Responsive -->
                         <button 
                             type="submit"
@@ -382,7 +409,7 @@
 
                         <div class="text-center">
                             <p class="text-xs lg:text-sm font-museo text-gray-500">
-                                We'll review your information and contact you within 24 hours to discuss next steps.
+                                We review medical inquiries confidentially and contact you within 24 business hours.
                             </p>
                         </div>
                     </form>

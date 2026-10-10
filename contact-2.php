@@ -305,6 +305,21 @@
                             </div>
                         </div>
 
+                        <!-- Consent Notice -->
+                        <div class="bg-blue-50/80 border border-blue-100 rounded-lg p-3">
+                            <div class="flex items-start space-x-2">
+                                <input 
+                                    type="checkbox" 
+                                    id="contact2-consent" 
+                                    name="consent" 
+                                    required 
+                                    class="mt-0.5 text-primary-blue rounded text-xs cursor-pointer">
+                                <label for="contact2-consent" class="text-xs text-gray-700 leading-snug cursor-pointer">
+                                    I consent to data collection for clinical consultation under the <a href="legal,policies-and-T&C#privacy-policy" target="_blank" class="text-primary-blue underline">Privacy Policy</a>. *
+                                </label>
+                            </div>
+                        </div>
+
                         <!-- Compact Submit -->
                         <button 
                             type="submit"
@@ -313,7 +328,7 @@
                         </button>
 
                         <p class="text-xs font-museo text-gray-500 text-center">
-                            We'll contact you within 24 hours.
+                            We'll review your inquiry and contact you within 24 business hours.
                         </p>
                     </form>
                 </div>
@@ -322,17 +337,18 @@
 
         <!-- Compact Emergency Info -->
         <div class="mt-6 bg-text-gray text-white rounded-xl p-4 text-center">
-            <h3 class="text-lg font-museo-rounded font-bold mb-2">Need Immediate Help?</h3>
-            <div class="flex justify-center items-center space-x-6 text-sm">
+            <h3 class="text-lg font-museo-rounded font-bold mb-2">Need Immediate Clinical Assistance?</h3>
+            <div class="flex flex-wrap justify-center items-center gap-4 text-xs sm:text-sm">
                 <div class="flex items-center">
-                    <i class="fas fa-phone mr-2 text-accent-yellow"></i>
-                    <span>Emergency: 911</span>
+                    <i class="fas fa-phone-alt mr-2 text-accent-yellow"></i>
+                    <span>Clinic Helpline: +91-9573737847</span>
                 </div>
                 <div class="flex items-center">
-                    <i class="fas fa-hospital mr-2 text-accent-green"></i>
-                    <span>Crisis: 988</span>
+                    <i class="fas fa-ambulance mr-2 text-red-400"></i>
+                    <span>Emergency Ambulance: 112 / 108</span>
                 </div>
             </div>
+        </div>
         </div>
     </div>
 </section>

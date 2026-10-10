@@ -589,9 +589,9 @@
                             <!-- Consent Checkbox -->
                             <div class="stagger-item mt-6">
                                 <div class="flex items-start space-x-3">
-                                    <input type="checkbox" id="consent" name="consent" required class="mt-1 flex-shrink-0">
-                                    <label for="consent" class="museo-sans text-sm text-gray-600">
-                                        I consent to Talking Tales storing and processing my personal data for recruitment purposes. I understand that my information will be handled in accordance with the company's privacy policy. *
+                                    <input type="checkbox" id="consent" name="consent" required class="mt-1 flex-shrink-0 cursor-pointer">
+                                    <label for="consent" class="museo-sans text-xs sm:text-sm text-gray-600 cursor-pointer leading-relaxed">
+                                        I consent to The Talking Tales storing and processing my resume and personal data for recruitment and credential verification purposes in accordance with the <a href="legal,policies-and-T&C#privacy-policy" target="_blank" class="text-primary-blue underline">Privacy Policy</a>. *
                                     </label>
                                 </div>
                             </div>

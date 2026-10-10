@@ -264,12 +264,18 @@
                             >
                         </div>
 
-                        <!-- Privacy Notice -->
-                        <div class="bg-blue-50 rounded-xl p-3">
-                            <p class="museo-sans text-xs text-gray-600">
-                                <i class="fas fa-shield-alt text-blue-600 mr-1"></i>
-                                <strong>Privacy Protected:</strong> Information is secure and used only for assessment purposes.
-                            </p>
+                        <!-- Privacy & Screening Notice -->
+                        <div class="bg-blue-50 rounded-xl p-3.5 space-y-2">
+                            <div class="flex items-center text-xs text-[#0B87C5] font-semibold">
+                                <i class="fas fa-shield-alt mr-1.5"></i>
+                                <span>Confidential Assessment • Privacy Protected</span>
+                            </div>
+                            <div class="flex items-start space-x-2">
+                                <input type="checkbox" id="childConsent" name="consent" required class="mt-0.5 text-blue-600 rounded cursor-pointer flex-shrink-0">
+                                <label for="childConsent" class="museo-sans text-xs text-gray-700 cursor-pointer leading-tight">
+                                    I consent to data processing for screening evaluation under the <a href="legal,policies-and-T&C#privacy-policy" target="_blank" class="text-blue-600 underline">Privacy Policy</a> and understand this is an informational tool, not a clinical diagnosis. *
+                                </label>
+                            </div>
                         </div>
                     </div>
 
@@ -370,12 +376,18 @@
                             >
                         </div>
 
-                        <!-- Privacy Notice -->
-                        <div class="bg-green-50 rounded-xl p-3">
-                            <p class="museo-sans text-xs text-gray-600">
-                                <i class="fas fa-shield-alt text-green-600 mr-1"></i>
-                                <strong>Privacy Protected:</strong> Information is secure and used only for assessment purposes.
-                            </p>
+                        <!-- Privacy & Screening Notice -->
+                        <div class="bg-green-50 rounded-xl p-3.5 space-y-2">
+                            <div class="flex items-center text-xs text-green-700 font-semibold">
+                                <i class="fas fa-shield-alt mr-1.5"></i>
+                                <span>Confidential Assessment • Privacy Protected</span>
+                            </div>
+                            <div class="flex items-start space-x-2">
+                                <input type="checkbox" id="teenConsent" name="consent" required class="mt-0.5 text-green-600 rounded cursor-pointer flex-shrink-0">
+                                <label for="teenConsent" class="museo-sans text-xs text-gray-700 cursor-pointer leading-tight">
+                                    I consent to data processing for screening evaluation under the <a href="legal,policies-and-T&C#privacy-policy" target="_blank" class="text-green-700 underline">Privacy Policy</a> and acknowledge this is an informational tool. *
+                                </label>
+                            </div>
                         </div>
                     </div>
 
@@ -476,12 +488,18 @@
                             >
                         </div>
 
-                        <!-- Privacy Notice -->
-                        <div class="bg-orange-50 rounded-xl p-3">
-                            <p class="museo-sans text-xs text-gray-600">
-                                <i class="fas fa-shield-alt text-orange-600 mr-1"></i>
-                                <strong>Privacy Protected:</strong> Information is secure and used only for assessment purposes.
-                            </p>
+                        <!-- Privacy & Screening Notice -->
+                        <div class="bg-orange-50 rounded-xl p-3.5 space-y-2">
+                            <div class="flex items-center text-xs text-orange-700 font-semibold">
+                                <i class="fas fa-shield-alt mr-1.5"></i>
+                                <span>Confidential Assessment • Privacy Protected</span>
+                            </div>
+                            <div class="flex items-start space-x-2">
+                                <input type="checkbox" id="adultConsent" name="consent" required class="mt-0.5 text-orange-600 rounded cursor-pointer flex-shrink-0">
+                                <label for="adultConsent" class="museo-sans text-xs text-gray-700 cursor-pointer leading-tight">
+                                    I consent to data processing for screening evaluation under the <a href="legal,policies-and-T&C#privacy-policy" target="_blank" class="text-orange-700 underline">Privacy Policy</a> and acknowledge this is an informational guide. *
+                                </label>
+                            </div>
                         </div>
                     </div>
 

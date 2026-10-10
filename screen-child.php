@@ -1417,6 +1417,13 @@
                         <div class="step-text museo-sans">Schedule a professional evaluation with a speech therapist</div>
                     </div>
                 </div>
+
+                <div style="margin-top: 20px; padding: 14px 18px; background: #FEF3C7; border: 1px solid #FCD34D; border-radius: 12px; text-align: left;">
+                    <p class="museo-sans" style="font-size: 0.8rem; color: #92400E; margin: 0; line-height: 1.45;">
+                        <i class="fas fa-notes-medical" style="margin-right: 6px;"></i>
+                        <strong>Clinical Advisory:</strong> This screening tool is an informal indicator designed to identify development areas that may warrant professional evaluation. It is not a clinical medical diagnosis. A formal evaluation by a licensed Speech-Language Pathologist or Developmental Specialist is required for comprehensive diagnosis.
+                    </p>
+                </div>
             `;
         }
 

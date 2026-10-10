@@ -220,45 +220,89 @@
                 </div>
             </div>
     
+            <!-- Clinical & Statutory Medical Disclaimer -->
+            <div class="border-t border-white/10 py-6 bg-black/20">
+                <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+                    <div class="flex items-start space-x-3 text-white/70 text-xs leading-relaxed">
+                        <i class="fas fa-notes-medical text-primary-blue mt-1 flex-shrink-0 text-sm"></i>
+                        <div>
+                            <p>
+                                <strong class="text-white/90">Medical & Clinical Disclaimer:</strong> All content, developmental checklists, and interactive screening resources on The Talking Tales website are for educational, informational, and preliminary guidance purposes only. They do not constitute formal medical diagnosis, clinical prescription, or individualized therapeutic treatment plans. Always consult a qualified speech-language pathologist, developmental pediatrician, or licensed medical practitioner regarding any health or communication condition. Testimonials and patient stories represent individual journeys; clinical outcomes vary based on individual diagnosis, consistency, and clinical factors.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <!-- Bottom Bar -->
             <div class="border-t border-white/10 bg-white/5 backdrop-blur-sm">
                 <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-6">
-                    <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-                        <div class="flex items-center space-x-6">
-                            <p class="font-museo text-white/60 text-sm">
-                                © 2025 Talking Tales. All rights reserved.
+                    <div class="flex flex-col lg:flex-row justify-between items-center gap-4">
+                        <div class="flex flex-col md:flex-row items-center gap-4 text-center md:text-left">
+                            <p class="font-museo text-white/60 text-xs sm:text-sm">
+                                © 2025 The Talking Tales Clinic. All rights reserved.
                             </p>
-                            <div class="hidden md:flex space-x-4">
-                                <a href="legal,policies-and-T&C" class="font-museo text-white/60 hover:text-white text-sm transition-colors duration-300">Privacy Policy</a>
-                                <a href="legal,policies-and-T&C" class="font-museo text-white/60 hover:text-white text-sm transition-colors duration-300">Terms of Service</a>
-                                 <a href="cancellation-and-refund" class="font-museo text-white/60 hover:text-white text-sm transition-colors duration-300">Cancellation and Refund policy</a>
-                                <a href="shipping" class="font-museo text-white/60 hover:text-white text-sm transition-colors duration-300">Shipping</a>
+                            <div class="flex flex-wrap justify-center gap-x-4 gap-y-2 text-xs sm:text-sm">
+                                <a href="legal,policies-and-T&C#privacy-policy" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Privacy Policy</a>
+                                <a href="legal,policies-and-T&C#medical-disclaimer" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Medical Disclaimer</a>
+                                <a href="legal,policies-and-T&C#testimonials-policy" class="font-museo text-white/60 hover:text-white transition-colors duration-300">NMC & Ethics</a>
+                                <a href="legal,policies-and-T&C#terms-of-service" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Terms of Service</a>
+                                <a href="cancellation-and-refund" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Refund Policy</a>
+                                <a href="shipping" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Shipping Policy</a>
                             </div>
                         </div>
                         
-                        <a href="https://brandingpioneers.com/" class="font-museo text-white/60 text-sm">
-                            Made & Designed By : Branding Pioneers
-                        </a>
-                        
-                        <!-- Back to Top -->
-                        <button id="backToTop" class="group bg-white/10 hover:bg-primary-blue border border-white/20 hover:border-primary-blue rounded-full p-3 transition-all duration-300 hover:scale-110 backdrop-blur-sm">
-                            <i class="fas fa-arrow-up text-white group-hover:text-white transition-colors duration-300"></i>
-                        </button>
+                        <div class="flex items-center space-x-4">
+                            <a href="https://brandingpioneers.com/" class="font-museo text-white/60 hover:text-white text-xs sm:text-sm transition-colors duration-300">
+                                Made & Designed By : Branding Pioneers
+                            </a>
+                            
+                            <!-- Back to Top -->
+                            <button id="backToTop" class="group bg-white/10 hover:bg-primary-blue border border-white/20 hover:border-primary-blue rounded-full p-2.5 transition-all duration-300 hover:scale-110 backdrop-blur-sm" aria-label="Back to top">
+                                <i class="fas fa-arrow-up text-white text-sm group-hover:text-white transition-colors duration-300"></i>
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
+
+    <!-- Cookie Consent Banner -->
+    <div id="cookieConsentBanner" class="fixed bottom-0 inset-x-0 z-50 p-4 bg-gray-900/95 backdrop-blur-md text-white border-t border-gray-700 shadow-2xl transition-all duration-500 transform translate-y-full opacity-0">
+        <div class="container mx-auto max-w-6xl flex flex-col md:flex-row items-center justify-between gap-4">
+            <div class="flex items-start space-x-3 text-xs sm:text-sm text-gray-300">
+                <i class="fas fa-cookie-bite text-[#3DD288] text-xl mt-0.5 flex-shrink-0"></i>
+                <div>
+                    <p class="font-medium text-white mb-0.5">We Respect Your Privacy & Data Protection</p>
+                    <p>
+                        We use essential cookies for website operation and anonymized analytics to improve your clinical and browsing experience in compliance with data protection laws. Learn more in our <a href="legal,policies-and-T&C#cookies-notice" class="text-[#0B87C5] underline hover:text-blue-300">Cookies Policy</a> and <a href="legal,policies-and-T&C#privacy-policy" class="text-[#0B87C5] underline hover:text-blue-300">Privacy Policy</a>.
+                    </p>
+                </div>
+            </div>
+            <div class="flex items-center space-x-3 flex-shrink-0">
+                <button id="cookieEssentialBtn" class="px-4 py-2 text-xs font-semibold text-gray-300 bg-gray-800 hover:bg-gray-700 border border-gray-600 rounded-lg transition-all">
+                    Essential Only
+                </button>
+                <button id="cookieAcceptBtn" class="px-5 py-2 text-xs font-semibold text-white bg-[#0B87C5] hover:bg-blue-600 rounded-lg shadow-md transition-all">
+                    Accept All
+                </button>
+            </div>
+        </div>
+    </div>
     
      <!-- footer -->
     <script>
         // Back to top functionality
-        document.getElementById('backToTop').addEventListener('click', () => {
-            window.scrollTo({
-                top: 0,
-                behavior: 'smooth'
+        const backToTopBtn = document.getElementById('backToTop');
+        if (backToTopBtn) {
+            backToTopBtn.addEventListener('click', () => {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
             });
-        });
+        }
     
         // Intersection observer for footer animations
         const footerObserver = new IntersectionObserver((entries) => {
@@ -274,30 +318,51 @@
                 }
             });
         }, { threshold: 0.1 });
-    
-        // Interactive hover effects for logo elements
-        function addLogoInteractions() {
-            const logoElements = document.querySelectorAll('.w-16.h-16, .w-16.h-12, .w-16.h-18, .w-16.h-14');
-            
-            logoElements.forEach(element => {
-                element.addEventListener('mouseenter', () => {
-                    element.style.transform = 'scale(1.1) rotate(5deg)';
-                    element.style.boxShadow = '0 10px 30px rgba(255,255,255,0.2)';
+
+        // Cookie Consent Banner Logic
+        document.addEventListener('DOMContentLoaded', () => {
+            const consentBanner = document.getElementById('cookieConsentBanner');
+            const acceptBtn = document.getElementById('cookieAcceptBtn');
+            const essentialBtn = document.getElementById('cookieEssentialBtn');
+
+            const hasConsent = localStorage.getItem('tt_cookie_consent');
+
+            if (!hasConsent && consentBanner) {
+                setTimeout(() => {
+                    consentBanner.classList.remove('translate-y-full', 'opacity-0');
+                    consentBanner.classList.add('translate-y-0', 'opacity-100');
+                }, 1200);
+            }
+
+            if (acceptBtn) {
+                acceptBtn.addEventListener('click', () => {
+                    localStorage.setItem('tt_cookie_consent', 'all');
+                    dismissBanner();
                 });
-                
-                element.addEventListener('mouseleave', () => {
-                    element.style.transform = 'scale(1) rotate(0deg)';
-                    element.style.boxShadow = '';
+            }
+
+            if (essentialBtn) {
+                essentialBtn.addEventListener('click', () => {
+                    localStorage.setItem('tt_cookie_consent', 'essential');
+                    dismissBanner();
                 });
-            });
-        }
-    
-    
+            }
+
+            function dismissBanner() {
+                if (consentBanner) {
+                    consentBanner.classList.add('translate-y-full', 'opacity-0');
+                    setTimeout(() => {
+                        consentBanner.style.display = 'none';
+                    }, 500);
+                }
+            }
+        });
     
         // Initialize
         document.addEventListener('DOMContentLoaded', () => {
-            footerObserver.observe(document.querySelector('footer'));
-            addLogoInteractions();
-            addNewsletterInteraction();
+            const footer = document.querySelector('footer');
+            if (footer) {
+                footerObserver.observe(footer);
+            }
         });
     </script>

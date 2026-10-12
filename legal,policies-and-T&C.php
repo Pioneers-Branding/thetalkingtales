@@ -100,8 +100,8 @@
                 <a href="#medical-disclaimer" class="nav-pill px-3 py-1.5 rounded-lg text-gray-700 bg-gray-100 flex items-center gap-1.5">
                     <i class="fas fa-notes-medical text-red-500"></i> Medical Disclaimer
                 </a>
-                <a href="#testimonials-policy" class="nav-pill px-3 py-1.5 rounded-lg text-gray-700 bg-gray-100 flex items-center gap-1.5">
-                    <i class="fas fa-certificate text-purple-600"></i> NMC & Testimonials
+                <a href="#advertising-ethics-policy" class="nav-pill px-3 py-1.5 rounded-lg text-gray-700 bg-gray-100 flex items-center gap-1.5">
+                    <i class="fas fa-certificate text-purple-600"></i> NMC & Advertising Ethics
                 </a>
                 <a href="#terms-of-service" class="nav-pill px-3 py-1.5 rounded-lg text-gray-700 bg-gray-100 flex items-center gap-1.5">
                     <i class="fas fa-file-contract text-yellow-600"></i> Terms of Service
@@ -281,8 +281,9 @@
                 </div>
             </div>
 
-            <!-- 3. NMC & Testimonials Policy Section -->
-            <div id="testimonials-policy" class="policy-card purple bg-white rounded-2xl p-6 lg:p-10 shadow-md">
+            <!-- 3. NMC Compliance & Advertising Ethics Section -->
+            <div id="advertising-ethics-policy" class="policy-card purple bg-white rounded-2xl p-6 lg:p-10 shadow-md">
+                <span id="testimonials-policy" class="scroll-mt-24"></span>
                 <div class="flex items-start space-x-4 mb-6">
                     <div class="flex-shrink-0">
                         <div class="w-14 h-14 bg-purple-50 rounded-2xl flex items-center justify-center border border-purple-100">
@@ -290,45 +291,51 @@
                         </div>
                     </div>
                     <div>
-                        <div class="inline-block text-xs uppercase tracking-wider font-bold text-purple-600 mb-1">Section 3 • Medical Ethics & Content Authenticity</div>
+                        <div class="inline-block text-xs uppercase tracking-wider font-bold text-purple-600 mb-1">Section 3 • Medical Advertising & Ethical Conduct Standards</div>
                         <h2 class="museo-rounded text-2xl lg:text-3xl font-bold text-gray-900">
-                            NMC Compliance, Patient Testimonials & Media Ethics
+                            NMC Compliance, Advertising Standards & Professional Ethics
                         </h2>
                     </div>
                 </div>
 
                 <div class="prose max-w-none text-gray-600 space-y-5 text-sm lg:text-base leading-relaxed">
                     <p>
-                        In accordance with the <strong>National Medical Commission (NMC) Registered Medical Practitioner (Professional Conduct) Regulations</strong>, the Rehabilitation Council of India (RCI) guidelines, and allied healthcare professional ethics:
+                        The Talking Tales strictly adheres to the <strong>National Medical Commission (NMC) Registered Medical Practitioner (Professional Conduct) Regulations</strong>, the Rehabilitation Council of India (RCI) guidelines, the Consumer Protection Act, and statutory healthcare marketing regulations in India:
                     </p>
 
                     <div class="grid md:grid-cols-2 gap-4 my-2">
                         <div class="p-4 bg-purple-50/60 border border-purple-100 rounded-xl">
                             <h4 class="font-bold text-gray-900 mb-2 flex items-center gap-2">
-                                <i class="fas fa-check-circle text-purple-600"></i> Authentic Testimonials & Voluntary Consent
+                                <i class="fas fa-ban text-purple-600"></i> Prohibition of Exaggerated Claims
                             </h4>
                             <p class="text-xs text-gray-700">
-                                All patient and parent testimonials, case studies, and rehabilitation narratives presented on this website are genuine reflections of personal experiences. Each testimonial, photograph, video clip, or audio excerpt is published exclusively with written, informed, and revocable consent from the patient or their legal guardian.
+                                We strictly prohibit and refrain from using exaggerated claims, superlatives, or self-laudatory descriptions such as “best doctor,” “No. 1 clinic,” “100% success rate,” or “guaranteed cure.” Clinical rehabilitation outcomes vary individually and cannot be guaranteed.
                             </p>
                         </div>
                         <div class="p-4 bg-purple-50/60 border border-purple-100 rounded-xl">
                             <h4 class="font-bold text-gray-900 mb-2 flex items-center gap-2">
-                                <i class="fas fa-ban text-purple-600"></i> No Misleading or Comparative Claims
+                                <i class="fas fa-user-slash text-purple-600"></i> Ban on Promotional Testimonials & Photos
                             </h4>
                             <p class="text-xs text-gray-700">
-                                We strictly prohibit paid endorsements, fabricated reviews, or sensationalized claims of clinical superiority. Clinical representations adhere strictly to factual, objective, and evidence-based therapeutic paradigms without disparaging other healthcare institutions.
+                                In compliance with statutory medical advertising codes, using patient testimonials, before-and-after treatment photographs or videos, or clinical outcome reviews for promotional and marketing purposes is strictly banned and not published on this platform.
                             </p>
                         </div>
                     </div>
 
-                    <h3 class="font-bold text-gray-900 text-lg">3.1 Before-and-After Clinical Representations</h3>
+                    <h3 class="font-bold text-gray-900 text-lg">3.1 Prohibition of Commercial Hooks, Discounts & Referral Fees</h3>
                     <p>
-                        Any before-and-after therapy case descriptions, functional improvement metrics, or clinical media are presented solely for clinical education and transparency. These representations do not suggest that identical outcomes will occur in all patients, as rehabilitation depends on individualized anatomical, neurological, and behavioral factors.
+                        Healthcare is a sacred public trust. The Talking Tales explicitly enforces:
                     </p>
+                    <ul class="list-disc pl-5 space-y-1.5 text-sm">
+                        <li><strong>No Promotional Discounts:</strong> We do not offer commercial discounts, flash sales, festive rebate schemes, or cut-rate marketing packages for clinical therapies.</li>
+                        <li><strong>No Free Consultations as Marketing Hooks:</strong> We strictly refrain from using deceptive "free consultation" or "complimentary assessment" hooks designed solely to solicit or entangle prospective patients. Screening tools provided are informal, objective educational self-checklists only.</li>
+                        <li><strong>No Referral Fees or Fee-Splitting:</strong> We strictly prohibit paying or receiving referral commissions, finder's fees, kickbacks, or financial remuneration for client or institutional referrals.</li>
+                        <li><strong>No Manipulated Online Reviews:</strong> We prohibit paid endorsements, solicited reviews, fake ratings, or manipulated social media engagement.</li>
+                    </ul>
 
-                    <h3 class="font-bold text-gray-900 text-lg">3.2 Right to Withdraw Testimonial Consent</h3>
+                    <h3 class="font-bold text-gray-900 text-lg">3.2 Transparent & Objective Professional Information</h3>
                     <p>
-                        Patients and guardians who have previously authorized the publication of their review or media may withdraw their consent at any point by contacting our Grievance Redressal Officer. Upon receipt of such a request, the identified media or testimonial will be unindexed and permanently removed within 7 business days.
+                        All clinical, diagnostic, and therapy details published by The Talking Tales are strictly objective, educational, and evidence-based. They are intended solely to assist individuals and families in understanding speech, language, swallowing, voice, and developmental communication needs, without making comparative or disparaging claims against other practitioners or healthcare organizations.
                     </p>
                 </div>
             </div>

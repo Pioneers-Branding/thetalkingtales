@@ -140,7 +140,7 @@
           <ul class="list-disc ml-5 museo-sans text-sm text-gray-700 space-y-1">
             <li>Downloaded or accessed digital content</li>
             <li>Personalized therapy materials or assessments</li>
-            <li>Promotional or discounted packages</li>
+            <li>Customized digital resources or therapeutic programs</li>
             <li>Services already rendered or sessions conducted</li>
           </ul>
         </div>

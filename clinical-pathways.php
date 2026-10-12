@@ -1592,7 +1592,7 @@
               <div class="w-10 h-10 flex items-center justify-center rounded-full bg-[#0B87C5] text-white font-bold">1</div>
             </div>
             <div class="ml-6">
-              <h3 class="museo-rounded text-xl font-bold text-gray-800">Start with a Free Screener</h3>
+              <h3 class="museo-rounded text-xl font-bold text-gray-800">Start with an Online Screener</h3>
               <p class="museo-sans text-gray-600 mt-1">
                 A quick, confidential form helps us understand your concern.
               </p>
@@ -1605,7 +1605,7 @@
               <div class="w-10 h-10 flex items-center justify-center rounded-full bg-[#0B87C5] text-white font-bold">2</div>
             </div>
             <div class="ml-6">
-              <h3 class="museo-rounded text-xl font-bold text-gray-800">Book Your Free Detailed Assessment</h3>
+              <h3 class="museo-rounded text-xl font-bold text-gray-800">Book a Detailed Clinical Assessment</h3>
               <p class="museo-sans text-gray-600 mt-1">
                 A speech-language therapist will conduct a detailed assessment over Zoom to understand concerns, observe the client, and plan goals.
               </p>
@@ -1705,11 +1705,11 @@
         <!-- Buttons -->
         <div class="text-center lg:text-left mt-12 flex flex-col sm:flex-row gap-4">
           <button class="bg-[#0B87C5] hover:bg-[#0969a5] text-white px-8 py-4 rounded-xl museo-sans font-semibold flex items-center justify-center">
-            Start Free Screener
+            Start Online Screener
             <i class="fas fa-arrow-right ml-2"></i>
           </button>
           <button class="bg-gray-700 hover:bg-gray-900 text-white px-8 py-4 rounded-xl museo-sans font-semibold flex items-center justify-center">
-            Book Free Assessment
+            Book Clinical Assessment
             <i class="fas fa-arrow-right ml-2"></i>
           </button>
         </div>
@@ -1802,8 +1802,8 @@
                 
                 <div class="flex flex-wrap justify-center">
                     <div class="benefit-pill">
-                        <i class="fas fa-gift text-green-600 mr-2"></i>
-                        <span class="museo-sans text-base">Free screener</span>
+                        <i class="fas fa-clipboard-check text-green-600 mr-2"></i>
+                        <span class="museo-sans text-base">Developmental screener</span>
                     </div>
                     <div class="benefit-pill">
                         <i class="fas fa-user-cog text-[#0B87C5] mr-2"></i>
@@ -1841,7 +1841,7 @@
                         </button>
                         <button class="btn-secondary">
                             <i class="fas fa-calendar mr-2"></i>
-                            <span class="museo-sans text-base">Book Free Consult</span>
+                            <span class="museo-sans text-base">Book Consultation</span>
                         </button>
                     </div>
                 </div>

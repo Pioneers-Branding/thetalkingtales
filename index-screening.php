@@ -529,7 +529,7 @@
                         onclick="startScreening()"
                         class="btn-primary text-white px-8 py-4 rounded-full museo-sans-rounded text-lg font-semibold inline-flex items-center gap-3 card-shadow"
                     >
-                        Start Free Screening
+                        Start Screening Assessment
                         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                         </svg>

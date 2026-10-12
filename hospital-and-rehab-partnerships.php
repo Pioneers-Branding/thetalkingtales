@@ -703,8 +703,8 @@
                                 <div class="flex items-start space-x-3">
                                     <i class="fas fa-check-circle text-green-600 mt-1"></i>
                                     <div>
-                                        <h4 class="museo-rounded font-bold text-gray-800 mb-1">Free Initial Screening Programs</h4>
-                                        <p class="museo-sans text-sm text-gray-600">Complimentary assessment services for new partner institutions</p>
+                                        <h4 class="museo-rounded font-bold text-gray-800 mb-1">Clinical Screening Programs</h4>
+                                        <p class="museo-sans text-sm text-gray-600">Structured developmental and swallowing screening services for partner institutions</p>
                                     </div>
                                 </div>
                             </div>
@@ -888,7 +888,7 @@
                                             <option value="Speech & Language Therapy">Speech & Language Therapy</option>
                                             <option value="Swallowing Therapy">Swallowing (Dysphagia) Management</option>
                                             <option value="Staff Training">Staff Training & Professional Development</option>
-                                            <option value="Screening Programs">Free Screening Programs</option>
+                                            <option value="Screening Programs">Clinical Screening Programs</option>
                                             <option value="Comprehensive Package">Comprehensive Speech Therapy Package</option>
                                             <option value="Consultation">Initial Consultation & Assessment</option>
                                         </select>

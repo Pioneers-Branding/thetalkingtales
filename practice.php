@@ -271,11 +271,11 @@
                             <i class="fas fa-search-plus text-3xl text-green-600"></i>
                         </div>
                         <h3 class="museo-rounded text-3xl lg:text-4xl font-bold text-gray-800 mb-4">
-                            Free Initial Screening for All Partner Schools
+                            Initial Screening for Partner Schools
                         </h3>
                         <p class="museo-sans text-lg lg:text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
                             As part of our commitment to early identification and equitable care, all new school partners receive a 
-                            <span class="font-semibold text-green-600">free screening program</span> for eligible students. This helps:
+                            <span class="font-semibold text-green-600">developmental screening program</span> for eligible students. This helps:
                         </p>
                     </div>
                     
@@ -324,14 +324,14 @@
                     <div class="text-center">
                         <div class="bg-white rounded-2xl p-6 lg:p-8 shadow-lg inline-block">
                             <h4 class="museo-rounded text-2xl font-bold text-gray-800 mb-3">
-                                Start Your Free Screening Program Today
+                                Start Your Screening Program Today
                             </h4>
                             <p class="museo-sans text-gray-600 mb-6 max-w-md">
                                 Join our partner schools and give your students the early support they deserve
                             </p>
                             <button class="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-xl museo-sans font-semibold transition-all duration-300 flex items-center justify-center mx-auto group">
                                 <i class="fas fa-clipboard-check mr-3 group-hover:scale-110 transition-transform"></i>
-                                Request Free Screening
+                                Request Institutional Screening
                             </button>
                         </div>
                     </div>

@@ -148,9 +148,7 @@
                                 </h4>
                                 <ul class="space-y-3">
                                     <li><a href="about" class="font-museo text-white/70 hover:text-primary-blue transition-colors duration-300 hover:translate-x-1 inline-block flex items-center justify-center md:justify-start"><i class="fas fa-info-circle text-primary-blue mr-2 text-xs"></i>About Us</a></li>
-                                    <!--<li><a href="#" class="font-museo text-white/70 hover:text-primary-yellow transition-colors duration-300 hover:translate-x-1 inline-block flex items-center justify-center md:justify-start"><i class="fas fa-user-md text-primary-blue mr-2 text-xs"></i>Our Team</a></li>-->
-                                    <li><a href="index#testimonials" class="font-museo text-white/70 hover:text-primary-orange transition-colors duration-300 hover:translate-x-1 inline-block flex items-center justify-center md:justify-start"><i class="fas fa-star text-primary-blue mr-2 text-xs"></i>Our Tales</a></li>
-                                    
+
                          <li><a href="about#teams" class="font-museo text-white/70 hover:text-primary-orange transition-colors duration-300 hover:translate-x-1 inline-block flex items-center justify-center md:justify-start"><i class="fas fa-users text-primary-blue mr-2 text-xs"></i>Our Team</a></li>
 
                                     <li><a href="coming-soon" class="font-museo text-white/70 hover:text-primary-green transition-colors duration-300 hover:translate-x-1 inline-block flex items-center justify-center md:justify-start"><i class="fas fa-blog text-primary-blue mr-2 text-xs"></i>Blog</a></li>
@@ -227,7 +225,7 @@
                         <i class="fas fa-notes-medical text-primary-blue mt-1 flex-shrink-0 text-sm"></i>
                         <div>
                             <p>
-                                <strong class="text-white/90">Medical & Clinical Disclaimer:</strong> All content, developmental checklists, and interactive screening resources on The Talking Tales website are for educational, informational, and preliminary guidance purposes only. They do not constitute formal medical diagnosis, clinical prescription, or individualized therapeutic treatment plans. Always consult a qualified speech-language pathologist, developmental pediatrician, or licensed medical practitioner regarding any health or communication condition. Testimonials and patient stories represent individual journeys; clinical outcomes vary based on individual diagnosis, consistency, and clinical factors.
+                                <strong class="text-white/90">Medical & Clinical Disclaimer:</strong> All content, developmental checklists, and interactive screening resources on The Talking Tales website are for educational, informational, and preliminary guidance purposes only. They do not constitute formal medical diagnosis, clinical prescription, or individualized therapeutic treatment plans. Always consult a qualified speech-language pathologist, developmental pediatrician, or licensed medical practitioner regarding any health or communication condition. In adherence to NMC (National Medical Commission) Registered Medical Practitioner Regulations and statutory clinical advertising standards, The Talking Tales does not publish promotional patient testimonials, before-and-after photographs, or clinical outcome guarantees.
                             </p>
                         </div>
                     </div>
@@ -245,7 +243,7 @@
                             <div class="flex flex-wrap justify-center gap-x-4 gap-y-2 text-xs sm:text-sm">
                                 <a href="legal,policies-and-T&C#privacy-policy" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Privacy Policy</a>
                                 <a href="legal,policies-and-T&C#medical-disclaimer" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Medical Disclaimer</a>
-                                <a href="legal,policies-and-T&C#testimonials-policy" class="font-museo text-white/60 hover:text-white transition-colors duration-300">NMC & Ethics</a>
+                                <a href="legal,policies-and-T&C#advertising-ethics-policy" class="font-museo text-white/60 hover:text-white transition-colors duration-300">NMC & Ethics</a>
                                 <a href="legal,policies-and-T&C#terms-of-service" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Terms of Service</a>
                                 <a href="cancellation-and-refund" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Refund Policy</a>
                                 <a href="shipping" class="font-museo text-white/60 hover:text-white transition-colors duration-300">Shipping Policy</a>

@@ -1038,7 +1038,7 @@
             
                            <div class="text-center mb-12 fade-in">
             <h2 class="font-bold text-4xl md:text-6xl text-[#4A4A4A] mb-4 museo-rounded">
-               Free Initial Screening <span class="text-primary-blue">for All Partner Schools</span>
+               Developmental Screening Programs <span class="text-primary-blue">for Partner Schools</span>
             </h2>
             <!--<p class="text-lg text-[#4A4A4A] museo-sans">-->
             <!--    We provide specialized services for adult and geriatric populations, including:-->
@@ -1264,8 +1264,8 @@
             <i class="fas fa-user-check"></i>
           </div>
           <div>
-            <h4 class="font-bold text-white font-museo-rounded text-base mb-2">Start with a Free Screening</h4>
-            <p class="text-gray-50 font-museo">Begin with clarity and confidence through our no-obligation screening.</p>
+            <h4 class="font-bold text-white font-museo-rounded text-base mb-2">Structured Screening Assessments</h4>
+            <p class="text-gray-50 font-museo">Begin with clarity and confidence through our professional developmental screening.</p>
           </div>
         </div>
       </div>
@@ -1405,8 +1405,8 @@
                                 <div class="flex items-start space-x-3">
                                     <i class="fas fa-check-circle text-green-600 mt-1"></i>
                                     <div>
-                                        <h4 class="museo-rounded font-bold text-[#4A4A4A] mb-1">Free Initial Screening Programs</h4>
-                                        <p class="museo-sans text-sm text-[#4A4A4A]">Complimentary assessment services for new partner institutions</p>
+                                        <h4 class="museo-rounded font-bold text-[#4A4A4A] mb-1">Institutional Screening Programs</h4>
+                                        <p class="museo-sans text-sm text-[#4A4A4A]">Structured developmental screening services for partner institutions</p>
                                     </div>
                                 </div>
                             </div>
@@ -1590,7 +1590,7 @@
                                             <option value="Speech & Language Therapy">Speech & Language Therapy</option>
                                             <option value="Swallowing Therapy">Swallowing (Dysphagia) Management</option>
                                             <option value="Staff Training">Staff Training & Professional Development</option>
-                                            <option value="Screening Programs">Free Screening Programs</option>
+                                            <option value="Screening Programs">Institutional Screening Programs</option>
                                             <option value="Comprehensive Package">Comprehensive Speech Therapy Package</option>
                                             <option value="Consultation">Initial Consultation & Assessment</option>
                                         </select>

@@ -369,7 +369,7 @@
                         <div class="mt-4 text-sm text-gray-800">
                           <span>If not,</span>
                           <a href="index#services-all" class="font-museo font-medium text-primary-blue underline hover:text-blue-700 transition-colors duration-300 text-sm lg:text-base">
-                            take a free screening test – click here
+                            take an online screening test – click here
                           </a>
                         </div>
 
